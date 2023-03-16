@@ -1,9 +1,5 @@
-title: Tangguh Dwijayanto # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Description 
-  <br> Hi, perkenalkan nama saya Tangguh Dwijayanto, dan ini adalah portofolio pertama saya <br>
-  <a href="https://www.linkedin.com/in/tangguh-dwijayanto/">View My LinkedIn Profile</a> 
-  
-theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
